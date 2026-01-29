@@ -2,6 +2,10 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&family=Plus+Jakarta+Sans:wght@400;600;700&display=swap');
+</style>
+
 const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
