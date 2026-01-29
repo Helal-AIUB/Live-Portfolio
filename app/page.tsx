@@ -196,7 +196,7 @@ const portfolioData = {
       name: "Science Poster Contest Spring 2022-23",
       issuer: "American International University-Bangladesh",
       date: "2023",
-      image: "/c6.png" // <--- Add your image filename here
+      image: "/C6.png" // <--- Add your image filename here
     }
   ],
 };
